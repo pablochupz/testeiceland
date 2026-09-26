@@ -1,4 +1,4 @@
-var cacheName = 'meeting-iceland';
+var cacheName = 'conhecendo-laufey';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
